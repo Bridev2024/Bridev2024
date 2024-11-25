@@ -35,7 +35,7 @@ GraphQL and Apollo
 Microservices Architecture
 
 🤝 Let's Connect
-LinkedIn: [My Linkedln](https://linkedln.com/Bri)
+LinkedIn: [My Linkedln](https://www.linkedin.com/in/bri-dev-515984320/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJv%2Fci279T32homXMzZc1hw%3D%3D)
 Portfolio: [My Portfolio](https://briportfolio.vercel.app)
 
 📫 Get in Touch
