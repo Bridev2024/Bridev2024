@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate **[Web Developer, e.g., Full Stack Web De
 ## 🌟 About Me
 - 💼 Full Stack Developer
 - 🔭 **Current Focus**: [e.g., Building scalable applications with MERN Stack]
-- 🌱 **Learning Goals**: [e.g., Advanced performance optimization techniques]
+- 🌱 **Learning Goals**: [ Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma]
 - 🎓 **Education**: [Your Degree or Certifications]
 - 💬 **Ask Me About**: [e.g., Web Accessibility, JavaScript Best Practices]
 - ⚡ **Fun Fact**: [e.g., "I love solving complex coding puzzles!"]
