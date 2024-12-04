@@ -1,9 +1,5 @@
 # Hi there, I'm Bright Lawrence 👋
 
-## 🔥 Currently Working On
-![Status](https://img.shields.io/badge/Status-In_Progress-brightgreen)
-
-
 Welcome to my GitHub! I'm a passionate **[Your Role, e.g., Full Stack Web Developer]**, focused on building accessible, user-friendly, and scalable web applications. With a foundation in modern web technologies, I aim to deliver impactful solutions that bridge the gap between design and functionality.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
@@ -49,9 +45,9 @@ Welcome to my GitHub! I'm a passionate **[Your Role, e.g., Full Stack Web Develo
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bridev2024)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://briportfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bri.dev.2024@gmail.com)
 
 ---
 
