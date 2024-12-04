@@ -1,4 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bright Lawrence 👋
+
+## 🔥 Currently Working On
+![Status](https://img.shields.io/badge/Status-In_Progress-brightgreen)
+
 
 Welcome to my GitHub! I'm a passionate **[Your Role, e.g., Full Stack Web Developer]**, focused on building accessible, user-friendly, and scalable web applications. With a foundation in modern web technologies, I aim to deliver impactful solutions that bridge the gap between design and functionality.
 
