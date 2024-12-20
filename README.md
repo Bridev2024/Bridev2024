@@ -1,4 +1,4 @@
-# [Hi there](https://camo.githubusercontent.com/eaee8422fd069ffb946769079778d0ed2fa7f53a2a0fa9961315f66550cbf797/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48692b7468657265212bf09f918bf09f8fbd3b49276d2b53686171212bf09fa6883b4e6963652b746f2b6d6565742b796f75212bf09f99822663656e7465723d747275652673697a653d333026636f6c6f723d3239643261) I'm Bright Lawrence 👋
+# Hi there I'm Bright Lawrence 👋
 
 Welcome to my GitHub! I'm a passionate **[Full Stack Web Developer]**, focused on building accessible, user-friendly, and scalable web applications. With a foundation in modern web technologies, I aim to deliver impactful solutions that bridge the gap between design and functionality.
 
